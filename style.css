@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+.linear-gradient {
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  background: linear-gradient(#b0ce56, #75c3d8);
+}
